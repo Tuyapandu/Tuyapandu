@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tuyapandu!
+# 👋 Hi, I'm Tuyakula!
 
 I'm an aspiring developer sharing my learning journey through code.
 Currently building skills in:
@@ -11,7 +11,7 @@ Currently building skills in:
 
 ## 🧠 What I'm up to
 
-- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/YOUR_REPO_NAME)
+- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/mysql-select-tutorials)
 - Exploring mini projects and coding challenges
 - Growing my GitHub into a personal portfolio
 
