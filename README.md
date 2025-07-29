@@ -11,7 +11,7 @@ Currently building skills in:
 
 ## 🧠 What I'm up to
 
-- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/mysql-select-tutorials)
+- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/mysql-select-tutorial)
 - Exploring mini projects and coding challenges
 - Growing my GitHub into a personal portfolio
 
