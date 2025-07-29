@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Tuyapandu!
 
-<!--
-**Tuyapandu/Tuyapandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer sharing my learning journey through code.
+Currently building skills in:
+- 💻 SQL
+- 🐍 Python (coming soon!)
+- 🧱 Web development & backend logic
+- 📊 Data & analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm up to
+
+- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/YOUR_REPO_NAME)
+- Exploring mini projects and coding challenges
+- Growing my GitHub into a personal portfolio
+
+---
+
+## 🚀 Goals for 2025
+
+- ✅ Master basic SQL queries
+- 🟨 Start web development projects
+- ⏳ Build a real-world app
+- 📚 Contribute to open-source (eventually!)
+
+---
+
+## 📫 Let’s connect
+
+If you like learning through tutorials or are also new to coding, feel free to follow me!
+
+> *“It’s not about being perfect. It’s about being consistent.”*
