@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tuyapandu!
+# 👋 Hi, I'm Tuyakula!
 
 I'm an aspiring developer sharing my learning journey through code.
 Currently building skills in:
