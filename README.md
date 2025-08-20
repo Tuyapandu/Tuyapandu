@@ -1,33 +1,36 @@
-# 👋 Hi, I'm Tuyakula!
+# 👋 Hi, I'm Tuyakula (Tuyapandu)
 
-I'm an aspiring developer sharing my learning journey through code.
-Currently building skills in:
-- 💻 SQL
-- 🐍 Python (coming soon!)
-- 🧱 Web development & backend logic
-- 📊 Data & analytics
+![Tuyapandu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuyapandu&show_icons=true&theme=tokyonight)
 
----
+## 🌟 About Me
+Aspiring developer and data enthusiast:
+- Learning **SQL, Python, and data analytics**
+- Building small projects to practice and share skills
 
-## 🧠 What I'm up to
-
-- Learning by doing — see my [Tutorials Repository](https://github.com/Tuyapandu/mysql-select-tutorial)
-- Exploring mini projects and coding challenges
-- Growing my GitHub into a personal portfolio
+> "Consistency beats perfection — keep learning, keep coding."
 
 ---
 
-## 🚀 Goals for 2025
+## 📂 Featured Projects
 
-- ✅ Master basic SQL queries
-- 🟨 Start web development projects
-- ⏳ Build a real-world app
-- 📚 Contribute to open-source (eventually!)
+### 🏫 Student Records SQL Project
+A mini project simulating a student database with CRUD operations.
+**Tech:** MySQL
+[🔗 View Repo](https://github.com/Tuyapandu/student-database)
+
+### 🔍 MySQL SELECT Tutorial
+A beginner-friendly tutorial for learning SQL SELECT statements.
+**Tech:** MySQL
+[🔗 View Repo](https://github.com/Tuyapandu/mysql-select-tutorial)
 
 ---
 
-## 📫 Let’s connect
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 
-If you like learning through tutorials or are also new to coding, feel free to follow me!
+---
 
-> *“It’s not about being perfect. It’s about being consistent.”*
+## 📫 Let's Connect
+[Email](tuyakulapn@gmail.com)
