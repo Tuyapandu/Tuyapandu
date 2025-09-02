@@ -1,39 +1,39 @@
 # 👋 Hi, I'm Tuyakula Nakakuwa (Tuyapandu)
 
-![Tuyapandu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuyapandu&show_icons=true&theme=tokyonight)
+🎓 International Student | 💻 Aspiring Data Analyst & Network Engineer | 🌏 Based in China
 
-## 🌟 About Me
-Aspiring developer and data enthusiast:
-- Learning **SQL, Python, and data analytics**
-- Building small projects to practice and share skills
-- 🌐 Exploring **Cisco Networking** through Packet Tracer labs.
----
-
-## 🌱 Next Steps
-- Upload first Packet Tracer lab file
-- Write weekly networking notes
-> "Consistency beats perfection — keep learning, keep coding."
+I’m currently studying IoT and building skills in **Data Analysis** (SQL, Excel, Python) and **Networking** (Cisco, Packet Tracer, Network Engineering).
+This repo is where I share my projects, learning journey, and practice exercises.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Skills in Progress
 
-### 🏫 Cisco Network journey.
-[🔗 View Repo](https://github.com/Tuyapandu/Cisco-Networking-Journey)
-
-### 🔍 MySQL SELECT Tutorial
-A beginner-friendly tutorial for learning SQL SELECT statements.
-**Tech:** MySQL
-[🔗 View Repo](https://github.com/Tuyapandu/mysql-select-tutorial)
+- **Data Analysis**: Excel | SQL | Python (Pandas, NumPy)
+- **Networking**: Cisco Packet Tracer | IP addressing | Routing & Switching
+- **Other**: Git/GitHub | IoT Basics
 
 ---
 
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+## 📊 GitHub Stats
+
+![Tuyapandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuyapandu&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuyapandu&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
-[Email](tuyakulapn@gmail.com)
+## 🌱 Goals for 2025
+
+- ✅ Finish **Cisco Networking Academy** course
+- ✅ Complete **Alex The Analyst Data Analyst Bootcamp**
+- 🔜 Build portfolio projects in **Data Analysis & Networking**
+- 🎯 Apply for **scholarships and internships** in tech/data
+
+---
+
+📫 **Let’s connect**:
+- GitHub: [@Tuyapandu](https://github.com/Tuyapandu)
+- E-mail: tuyakulapn@gmail.com
+
+---
