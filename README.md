@@ -7,19 +7,19 @@ This repo is where I share my projects, learning journey, and practice exercises
 
 ---
 
-## 🚀 Skills in Progress
-
-- **Data Analysis**: Excel | SQL | Python (Pandas, NumPy)
-- **Networking**: Cisco Packet Tracer | IP addressing | Routing & Switching
-- **Other**: Git/GitHub | IoT Basics
-
----
-
 ## 📊 GitHub Stats
 
 ![Tuyapandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuyapandu&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuyapandu&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Skills in Progress
+
+- **Data Analysis**: Excel | SQL | Python (Pandas, NumPy)
+- **Networking**: Cisco Packet Tracer | IP addressing | Routing & Switching
+- **Other**: Git/GitHub | IoT Basics
 
 ---
 
