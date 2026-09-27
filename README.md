@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tuyakula Nakakuwa (Tuyapandu)
 
-🎓 International Student | 💻 Aspiring Data Analyst & Network Engineer | 🌏 Based in China
+🎓 International Student | 💻 Aspiring Data Analyst & IoT Engineer | 🌏 Based in China
 
-I’m currently studying IoT and building skills in **Data Analysis** (SQL, Excel, Python) and **Networking** (Cisco, Packet Tracer, Network Engineering).
+I’m currently studying IoT and building skills in **Data Analysis** (SQL, Excel, PowerBi, Python).
 This repo is where I share my projects, learning journey, and practice exercises.
 
 ---
@@ -17,15 +17,13 @@ This repo is where I share my projects, learning journey, and practice exercises
 
 ## 🚀 Skills in Progress
 
-- **Data Analysis**: Excel | SQL | Python (Pandas, NumPy)
-- **Networking**: Cisco Packet Tracer | IP addressing | Routing & Switching
+- **Data Analysis**: Excel | SQL | Python | Power BI
 - **Other**: Git/GitHub | IoT Basics
 
 ---
 
-## 🌱 Goals for 2025
+## 🌱 Goals for 2026 - 2027
 
-- ✅ Finish **Cisco Networking Academy** course
 - ✅ Complete **Alex The Analyst Data Analyst Bootcamp**
 - 🔜 Build portfolio projects in **Data Analysis & Networking**
 - 🎯 Apply for **scholarships and internships** in tech/data
